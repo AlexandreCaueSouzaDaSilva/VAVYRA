@@ -2,6 +2,7 @@ import pandas as pd
 import src.addtask as at # Importa a função add_task do módulo addtask
 import src.viewtask as vt # Importa a função view_task do módulo viewtask
 import src.update_task as ut # Importa a função update_task do módulo update_task
+import src.del_task as dt # Importa a função del_task do módulo del_task
 
 CSV_FILE = "teste.csv"
 
@@ -28,7 +29,7 @@ if __name__ == "__main__":
             elif input_user == "3":
                 ut.update_task(CSV_FILE)
             elif input_user == "4":
-                print("Deletar Tarefa")
+                dt.del_task(CSV_FILE)
             elif input_user == "7":
                 print("Sair")
                 break

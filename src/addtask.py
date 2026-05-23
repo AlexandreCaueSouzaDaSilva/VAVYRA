@@ -1,4 +1,5 @@
 import pandas as pd
+
 def add_task( CSV_FILE):
     tarefa = input("Digite a tarefa: ")
     Categoria = input("Digite a categoria (projeto, finanças, TI, vídeos, etc): ")

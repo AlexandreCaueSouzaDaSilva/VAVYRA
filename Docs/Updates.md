@@ -1,4 +1,4 @@
-Próxima atualização:
+Próxima atualização (planejamento:)
 
 - Estrutura de projeto: tudo está em um único arquivo. Separar em módulos (tasks.py, visualization.py, main.py) deixaria mais escalável.
 

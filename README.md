@@ -25,7 +25,7 @@ matplotlib (Biblioteca) → gera gráficos visuais
     README.md → apresentação geral
 
 
-# Funcionalidades:
+# Funcionalidades: até agora
 - Geração de cronogramas personalizados
 - Cálculo automático de prazos
 - Visualização gráfica de tarefas e métricas
