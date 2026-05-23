@@ -1,6 +1,6 @@
 ## VAVYRA PROJECT
 
-# Vavyra é um gerenciador de tarefas inteligente desenvolvido em Python, com foco na otimização de tempo para profissionais. O sistema cria tarefas, adiciona, visualiza e aplica um cronograma adaptado, ajudando na organização da rotina e aumento da produtividade.
+### Vavyra é um gerenciador de tarefas inteligente desenvolvido em Python, com foco na otimização de tempo para profissionais. O sistema cria tarefas, adiciona, visualiza e aplica um cronograma adaptado, ajudando na organização da rotina e aumento da produtividade.
 
 
 
